@@ -76,16 +76,8 @@ A passionate Computer Science student with a focus on full-stack development. I 
   </a>
 </div>
 
-<a href="http://www.github.com/SoshanW">
-  <img src="https://github-profile-trophy.vercel.app/?username=SoshanW&theme=nord&column=7&no-frame=true&no-bg=true" alt="SoshanW's Trophies" />
-</a>
-
 <!-- GitHub Skyline and Alternative Visualizations -->
 <h3 align="center">📊 GitHub Contributions Visualization 📊</h3>
-
-<a href="https://skyline.github.com/SoshanW/2024">
-  <img src="https://img.shields.io/badge/View%20My%20GitHub%20Skyline%20in%203D-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
-</a>
 
 <!-- GitHub Contribution Calendar -->
 <p align="center">
@@ -102,8 +94,4 @@ A passionate Computer Science student with a focus on full-stack development. I 
   <a href="https://github.com/SoshanW">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SoshanW&theme=github_dark&title_font_size=14" width="45%" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SoshanW&color=0891b2&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
