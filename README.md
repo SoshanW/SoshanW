@@ -61,7 +61,6 @@ A passionate Computer Science student with a focus on full-stack development. I 
 </div>
 
 <!-- GitHub Snake Animation -->
-<h3 align="center">🐍 Snake eating my contribution graph 🐍</h3>
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
